@@ -1,0 +1,8 @@
+body {
+    font-family: Coc;
+}
+
+@font-face {
+    font-family: Coc;
+    src: url(./font.ttf);
+}
